@@ -1,7 +1,19 @@
+<<<<<<< HEAD
+=======
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+.env.test
+.env.dev
+
+>>>>>>> e7c84b03572afbd4879cf240b1e1bb0b9035c6e1
 # Logs
 logs
 *.log
 npm-debug.log*
+<<<<<<< HEAD
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
@@ -128,3 +140,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+=======
+>>>>>>> e7c84b03572afbd4879cf240b1e1bb0b9035c6e1
