@@ -10,8 +10,8 @@ node_modules/
 
 >>>>>>> e7c84b03572afbd4879cf240b1e1bb0b9035c6e1
 # Logs
-logs
-*.log
+#logs
+#*.log
 npm-debug.log*
 <<<<<<< HEAD
 yarn-debug.log*
